@@ -6,3 +6,6 @@
 3.Players are basically from 2 domains(Batsman,Bowler).
 
 4.Based on player rating they are segregated as Grade A,Grade B,Grade C Players.
+
+5.We can even calculate the top 3 players from each Grade(Grade A,Grade B,Grade C players) for the respective domains as well.
+
